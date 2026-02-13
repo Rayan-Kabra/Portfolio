@@ -33,8 +33,15 @@ export const projects = [
     title: "Upflow",
     description: "Short description of project 1.",
     image: upFlow.src,
-    technologies: ["React", "Next.js", "TypeScript", "Tailwind"],
-    demo: "https://upflowdemo.netlify.app/",
+    technologies: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Node.js",
+      "MongoDB",
+      "Tailwind",
+    ],
+    demo: "https://www.upflow.website/",
     code: "https://github.com/RKcodage/Upflow",
   },
   {

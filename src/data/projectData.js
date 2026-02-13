@@ -34,10 +34,10 @@ export const projects = [
   {
     title: "Upflow",
     description:
-      "UpFlow est une plateforme moderne de vote de fonctionnalités développée avec React, Next.js et TypeScript pour collecter, prioriser et gérer efficacement les retours utilisateurs. Cliquez sur démo dans la barre de navigation pour tester l'application sous forme de widget intégré.",
+      "UpFlow est une plateforme moderne de vote de fonctionnalités développée avec Next.js, TypeScript, Node.js et MongoDB pour collecter, prioriser et gérer efficacement les retours utilisateurs. Cliquez sur démo dans la barre de navigation pour tester l'application sous forme de widget intégré.",
     image: upFlow.src,
     technologies: ["React", "Next.js", "TypeScript", "Tailwind"],
-    demo: "https://upflowdemo.netlify.app/",
+    demo: "https://www.upflow.website/",
     code: "https://github.com/RKcodage/Upflow",
     category: "fullstack",
   },

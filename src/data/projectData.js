@@ -28,7 +28,7 @@ export const projects = [
       "Google Auth",
     ],
     demo: "https://ma-gestion-immo.netlify.app/",
-    code: "https://github.com/RKcodage/Ma-Gestion-Immo",
+    code: "https://github.com/Rayan-Kabra/Ma-Gestion-Immo",
     category: "fullstack",
   },
   {
@@ -38,7 +38,7 @@ export const projects = [
     image: upFlow.src,
     technologies: ["React", "Next.js", "TypeScript", "Tailwind"],
     demo: "https://www.upflow.website/",
-    code: "https://github.com/RKcodage/Upflow",
+    code: "https://github.com/Rayan-Kabra/Upflow",
     category: "fullstack",
   },
   {
@@ -64,7 +64,7 @@ export const projects = [
     image: pulse.src,
     technologies: ["Next.js", "TypeScript", "Tailwind", "Framer Motion"],
     demo: "https://pulse-solution.netlify.app/",
-    code: "https://github.com/RKcodage/Pulse---Landing-page",
+    code: "https://github.com/Rayan-Kabra/Pulse---Landing-page",
     category: "frontend",
   },
   {
@@ -81,7 +81,7 @@ export const projects = [
       "Docker",
     ],
     demo: "",
-    code: "https://github.com/RKcodage/Crud-Rest-Api-Nestjs",
+    code: "https://github.com/Rayan-Kabra/Crud-Rest-Api-Nestjs",
     category: "backend",
   },
   {
@@ -100,7 +100,7 @@ export const projects = [
       "TMDB Api",
     ],
     demo: "https://your-movies-bank-app.netlify.app/",
-    code: "https://github.com/RKcodage/Movies-bank-front",
+    code: "https://github.com/Rayan-Kabra/Movies-bank-front",
     category: "fullstack",
   },
   {
@@ -117,7 +117,7 @@ export const projects = [
       "Web Socket",
     ],
     demo: "https://morpion-game-online.netlify.app/",
-    code: "https://github.com/RKcodage/Morpion-front",
+    code: "https://github.com/Rayan-Kabra/Morpion-front",
     category: "fullstack",
   },
   {
@@ -127,7 +127,7 @@ export const projects = [
     image: brainwave.src,
     technologies: ["JavaScript", "React", "Tailwind"],
     demo: "https://brainwave-ai-corp.netlify.app/",
-    code: "https://github.com/RKcodage/BrainAI",
+    code: "https://github.com/Rayan-Kabra/BrainAI",
     category: "frontend",
   },
   {

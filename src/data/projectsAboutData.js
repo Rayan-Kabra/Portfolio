@@ -20,7 +20,7 @@ export const projects = [
       "Google Auth",
     ],
     demo: "https://ma-gestion-immo.netlify.app/",
-    code: "https://github.com/RKcodage/Ma-Gestion-Immo",
+    code: "https://github.com/Rayan-Kabra/Ma-Gestion-Immo",
   },
   {
     title: "Reggenerate",
@@ -42,13 +42,13 @@ export const projects = [
       "Tailwind",
     ],
     demo: "https://www.upflow.website/",
-    code: "https://github.com/RKcodage/Upflow",
+    code: "https://github.com/Rayan-Kabra/Upflow",
   },
   {
     title: "Pulse",
     image: pulse.src,
     technologies: ["Next.js", "TypeScript", "Tailwind", "Framer Motion"],
     demo: "https://pulse-solution.netlify.app/",
-    code: "https://github.com/RKcodage/Pulse---Landing-page",
+    code: "https://github.com/Rayan-Kabra/Pulse---Landing-page",
   },
 ];
